@@ -21,10 +21,6 @@ The first dataset we will look at is the winning percentage of the Dodgers from 
 
 ## Concepts
 
-### Significance Testing
-
-Significance testing is a statistical technique used to determine whether the results obtained from a sample of data can be generalized to the entire population. The process involves comparing the observed results to what would be expected if there were no real difference or relationship between the variables being tested. If the observed results are unlikely to have occurred by chance, then they are considered statistically significant, and the null hypothesis (i.e., the hypothesis of no difference or relationship) is rejected. The level of significance, also known as alpha, is typically set at 0.05 or 0.01, meaning that there is a 5% or 1% chance, respectively, of observing the results by chance alone. Significance testing is widely used in research and is essential for drawing valid conclusions from data. However, it is important to note that statistical significance does not necessarily imply practical or meaningful significance, and the interpretation of results should take into account the context and relevance of the findings.
-
 ### T-Test
 
 The T-Test is an inferential technique that compares the means of two groups of data. It is based on the t-distribution and is primarily used to determine whether there is a significant difference 
